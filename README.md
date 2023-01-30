@@ -7,7 +7,7 @@ Implement boolean query for an IR system. [(:link:)](./project1/IR_9831011.ipynb
 ## Project 2
 Improve IR system using TFIDF score and scoring documents [(:link:)](./project2/IR_9831011.ipynb)
 ## Project 3
-Using Elastic Search IR engine to make an IR system. this part has for notebooks:
+Using Elastic Search IR engine to make an IR system. this part has 4 notebooks:
 1. Boolean Query using Elastic Search [(:link:)](./project3-optional/Boolean_Query.ipynb)
 2. Similarity Modulation [(:link:)](./project3-optional/SM.ipynb)
 3. Spell Correction using n-grams [(:link:)](./project3-optional/Spelling_Correction_2.ipynb)
